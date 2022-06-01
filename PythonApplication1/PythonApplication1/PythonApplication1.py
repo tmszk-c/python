@@ -17,8 +17,7 @@ class the_largest_value():
             largest_so_far = the_number
         print(largest_so_far, the_number)
     print('after', largest_so_far)
-
-    jslkj;lkfjslkdjf dkjfsldkf class the_smallest_value():  
+class the_smallest_value():  
     smallest_so_far = None
     print('before', smallest_so_far)
     for the_number in tab:
